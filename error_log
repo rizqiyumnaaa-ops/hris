@@ -1,0 +1,204 @@
+[16-Jul-2026 05:45:23 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/exports_list.php:27
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(469): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(176): PenggajianController->pdf_all()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/exports_list.php on line 27
+[17-Jul-2026 00:55:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 00:56:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 00:56:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 00:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 00:56:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 00:56:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 00:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 00:58:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 00:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 01:00:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:37
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 37
+[17-Jul-2026 01:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:37
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 37
+[17-Jul-2026 01:05:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 01:05:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 01:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(382): include()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(176): PenggajianController->pdf_all()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 01:06:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 01:06:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 01:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 01:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 01:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:48:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:48:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(382): include()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(176): PenggajianController->pdf_all()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:49:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:49:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[17-Jul-2026 04:49:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[19-Jul-2026 10:18:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[20-Jul-2026 09:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:36
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 36
+[23-Jul-2026 06:52:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function asset_url() in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php:35
+Stack trace:
+#0 /home/kazajawa/public_html/hris.kazajawarajamur.id/controllers/PenggajianController.php(149): require_once()
+#1 /home/kazajawa/public_html/hris.kazajawarajamur.id/index.php(170): PenggajianController->slip()
+#2 {main}
+  thrown in /home/kazajawa/public_html/hris.kazajawarajamur.id/views/penggajian/slip.php on line 35
